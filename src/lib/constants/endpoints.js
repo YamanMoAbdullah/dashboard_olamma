@@ -1,0 +1,28 @@
+const ENDPOINTS = {
+  STUDENTS: "/students",
+  STUDENT_DETAILS: "/students/details",
+  BATCHES: "/batches",
+  ENROLLMENTS: "/enrollments",
+  INSTITUTE_BRANCHES: "/institute-branches",
+  ACADEMIC_BRANCHES: "/academic-branches",
+  BUSES: "/buses",
+  CITIES: "/cities",
+  STUDENT_STATUSES: "/student-statuses",
+  ACADEMIC_RECORDS: "/academic-records",
+  CONTACTS: "/contact-details",
+  EMPLOYEES: "/employees",
+  SUBJECTS: "/subjects",
+  TEACHERS: "/teachers",
+  KNOW_WAYS: "/knowledge-sources",
+  CLASS_ROOMS: "/class-rooms",
+  ATTENDANCE: "/attendance",
+  SCHOOLS: "/schools",
+  GUARDIANS: "/guardians",
+
+  PAYMENTS: "/payments",
+  PAYMENTS_LATEST_PER_STUDENT: "/payments/latest-per-student",
+  PAYMENTS_STUDENT_LATE: "/payments/student-late",
+  ENROLLMENTS: "/enrollments",
+};
+
+export default ENDPOINTS;
